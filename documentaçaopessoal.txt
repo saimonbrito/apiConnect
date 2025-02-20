@@ -1,0 +1,34 @@
+ iniciando uma API
+
+ processos e comandos
+
+iniciar um servidor 
+npm init -y
+
+framework
+npm i fastify
+
+tsx:ferramenta para integrar typescript com node, @type/node para typescript reconhecer o node e -D e tudo em tempo de desenvolvimento 
+npm i tsx typescript @types/node -D
+
+criar arquivo com  configuraçao do tsx , 
+npx tsc --init  
+
+site buscar arquivo 
+https://tsconfig bases
+
+criar uma flag
+"dev": "tsx watch src/server.ts"
+
+medida de seguraca para saber quais as url que vao acessar 
+npm i @fastify/cors
+
+ferramenta para validaçao
+npm i zod
+
+ferramenta que entegra o zod
+npm i fastify-type-provider-zod
+
+gerar documentaçaore rotas com 
+
+npm i @fastify/swagger @fastify/swagger-ui
