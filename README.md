@@ -10,6 +10,7 @@ Este projeto utiliza as seguintes dependências:
 - **@types/node**: Definições de tipos TypeScript para o Node.js, proporcionando verificação de tipos ao usar as APIs do Node.  
 - **tsx**: Ferramenta para executar arquivos TypeScript diretamente, com suporte para Hot Module Replacement.  
 - **typescript**: Superconjunto de JavaScript que adiciona tipagem à linguagem, ajudando a criar código mais robusto e escalável.  
+- **docker**: criaçao de conteiner com pstgresql  .  
 
 ### documentaçao swagger
   - http://localhost:3333/docs

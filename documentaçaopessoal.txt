@@ -32,3 +32,11 @@ npm i fastify-type-provider-zod
 gerar documentaçaore rotas com 
 
 npm i @fastify/swagger @fastify/swagger-ui
+
+
+
+    "@fastify
+    "zod": 
+    "@types/node":
+    "tsx": 
+    "typescript"
